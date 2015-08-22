@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Contact Book</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_box">Name:\t</string>
+    <string name="age_box">Age</string>
+    <string name="contact_box">Contact:\t</string>
+    <string name="edit_name">Enter your name</string>
+    <string name="edit_cont">Enter your contact no.</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="title_activity_display_contacts">DisplayContacts</string>
+    <string name="cont">Contacts</string>
+    <string name="del">Delete</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="cred">Credits</string>
+    <string name="dummy_button">Powered by Ansia Inc.</string>
+    <string name="pow">pow</string>
+    <string name="dummy_content">Developed by: Akshay Chaudhari\nVersion:1.0.1</string>
+</resources>
